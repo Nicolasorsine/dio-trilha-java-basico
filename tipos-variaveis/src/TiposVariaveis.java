@@ -1,5 +1,9 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        String nomeUm = "Nicolas";
+        String nomeDois = "Nicolas";
+
+        System.out.println(nomeUm == nomeDois);
+
     }
 }
